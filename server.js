@@ -38,9 +38,9 @@ require("./config/passport")(passport);
 
 //cloudinary config
 cloudinary.config({
-  cloud_name: "bimpongcdn",
-  api_key: "212365165945153",
-  api_secret: "3CyCUlT7rfShJ70SxuLFDtNMzHg"
+  cloud_name: "************",
+  api_key: "***************",
+  api_secret: "************"
 });
 
 //Using routes
